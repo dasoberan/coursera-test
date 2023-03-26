@@ -57,7 +57,7 @@ p{
 }
 
 #nav-list a:hover{
-	background: white;
+	background: #999999;
 }
 
 .navbar-header button.navbar-toggle, .navbar-header .icon-bar{
@@ -124,6 +124,7 @@ p{
 		text-align: center;
 		font-family: sans-serif;
 		color: black;
+		background-color: white;
 		border: 1px solid black;
 
 	}
